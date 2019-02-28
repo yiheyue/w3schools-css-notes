@@ -12,6 +12,8 @@ h1 {
 }
 ```
 
+常用的颜色名有：Tomato、Orange、DodgerBlue、MediumSeaGreen、Gray、SlateBlue、Violet 和 LightGray。
+
 ## 颜色值
 
 除了指定颜色名这种方式外，我们还可以通过设置颜色值的方式来确定一种颜色。常用的颜色值有：RGB、HEX、HSL、RGBA 和 HSLA。
