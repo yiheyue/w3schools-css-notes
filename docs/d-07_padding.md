@@ -37,7 +37,7 @@ p {
 
 ## `padding` 扩大 `width` 的解决方法
 
-在 CSS 中，`width` 属性的大小不包括 `padding`。所以如果我们想在设置 `padding` 时，不破坏原来设置的 `width` 大小，我们可以怎么写：
+在 CSS 中，`width` 属性的大小不包括 `padding`。所以如果我们想在设置 `padding` 时，不破坏原来设置的 `width` 大小，我们可以这么写：
 
 ```css
 div {
