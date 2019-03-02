@@ -1,0 +1,69 @@
+/* Mouse over the words to change the cursor */
+
+span.auto {
+  cursor: auto;
+}
+
+span.crosshair {
+  cursor: crosshair;
+}
+
+span.default {
+  cursor: default;
+}
+
+span.e-resize {
+  cursor: e-resize;
+}
+
+span.help {
+  cursor: help;
+}
+
+span.move {
+  cursor: move;
+}
+
+span.n-resize {
+  cursor: n-resize;
+}
+
+span.ne-resize {
+  cursor: ne-resize;
+}
+
+span.nw-resize {
+  cursor: nw-resize;
+}
+
+span.pointer {
+  cursor: pointer;
+}
+
+span.progress {
+  cursor: progress;
+}
+
+span.s-resize {
+  cursor: s-resize;
+}
+
+span.se-resize {
+  cursor: se-resize;
+}
+
+span.sw-resize {
+  cursor: sw-resize;
+}
+
+span.text {
+  cursor: text;
+}
+
+span.w-resize {
+  cursor: w-resize;
+}
+
+span.wait {
+  cursor: wait;
+}
