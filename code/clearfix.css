@@ -1,0 +1,11 @@
+/* type 1 */
+.clearfix {
+  overflow: auto;
+}
+
+/* type 2 */
+.clearfix::after {
+  content: "";
+  clear: both;
+  display: table;
+}
