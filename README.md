@@ -43,3 +43,7 @@
 - [CSS Align](./docs/d-19_align.md)
 
 - [CSS Combinators](./docs/d-20_comb.md)
+
+- [CSS Pseudo-class](./docs/d-21_psecls.md)
+
+- [CSS Pseudo-element](./docs/d-22_pseele.md)
