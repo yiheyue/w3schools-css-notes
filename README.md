@@ -51,3 +51,5 @@
 - [CSS Units](./docs/d-23_unit.md)
 
 - [CSS Attr Selectors](./docs/d-24_attr.md)
+
+- [CSS Specificity](./docs/d-25_spec.md)
